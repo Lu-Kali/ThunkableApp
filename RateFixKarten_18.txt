@@ -1,6 +1,6 @@
 Vorname;
 Teil des Körpers;
-Kleiungsstück;
+Kleidungsstück;
 Autoteil;
 Was fängt man?;
 Erfinder, Entdecker oder Gelehrter;
