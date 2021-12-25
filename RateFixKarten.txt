@@ -1,5 +1,5 @@
-Test
-Wow
-Cool
-es
+Test,
+Wow,
+Cool,
+es,
 geht
