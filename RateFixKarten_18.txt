@@ -37,4 +37,8 @@ Was wächst oder lebt im Wald?;
 Nahrungsmittel;
 Was wird aus Metall hergestellt?;
 Was wird aus Holz hergestellt?;
-Film-Charakter
+Film-Charakter;
+Ausgedachte Geschlechtskrankheit;
+Grund zum Zuspätkommen;
+Ausgedachtes Sexspielzeug;
+Schimpfwort
